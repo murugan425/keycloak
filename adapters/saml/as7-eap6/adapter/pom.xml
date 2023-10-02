@@ -85,7 +85,7 @@
         <dependency>
             <groupId>org.jboss.as</groupId>
             <artifactId>jboss-as-web</artifactId>
-            <version>7.1.2.Final</version>
+            <version>7.2.0.Final</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -98,7 +98,7 @@
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-cachestore-remote</artifactId>
             <scope>provided</scope>
-            <version>5.2.20.Final</version> <!-- override version to match EAP's -->
+            <version>9.4.1.Final</version> <!-- override version to match EAP's -->
         </dependency>
         <dependency>
             <groupId>org.keycloak</groupId>
